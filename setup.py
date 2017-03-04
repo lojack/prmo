@@ -11,6 +11,7 @@ setup(name='promotron',
         'npyscreen',
         'PyGithub',
         'requests',
+        'GitPython'
       ],
       scripts=['bin/prmo'],
       zip_safe=False)
